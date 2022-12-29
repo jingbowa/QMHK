@@ -1,2 +1,1 @@
-# QMHK
-Quantitative Marketing Seminars at HK
+## Quantitative Marketing Seminars at HK
