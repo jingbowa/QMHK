@@ -1,1 +1,1 @@
-## Quantitative Marketing Seminars at HK
+## Quantitative Marketing Brown Bags at HK
